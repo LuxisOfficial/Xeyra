@@ -1,0 +1,15 @@
+{
+  "name": "xeyra-bot",
+  "version": "1.0.0",
+  "description": "Xeyra Botunun Altyapısı..",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "node-fetch": "^2.6.7"
+  },
+  "author": "Helian Official",
+  "license": "MIT"
+}
